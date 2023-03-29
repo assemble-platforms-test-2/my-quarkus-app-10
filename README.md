@@ -1,6 +1,6 @@
 # my-quarkus-app-10
 
-
+This is a test update
 
 ## Running the application in dev mode
 
